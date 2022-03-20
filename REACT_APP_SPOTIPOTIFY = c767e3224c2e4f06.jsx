@@ -1,0 +1,2 @@
+REACT_APP_USERNAME = "spotipotify"
+REACT_APP_API_KEY = f38a8469-f4d8-4928-a1c0-efef867098ae
